@@ -2,7 +2,7 @@
 Sample nftables configurations
 
 # install (debian 10)
-´´´bash
+```shell
 apt install nftables
 systemctl enable nftables.services
-´´´bash
+```
